@@ -9,9 +9,7 @@ export default function Hero() {
           <span>Anita</span>
         </h1>
         <p className={styles.desc}>
-          Full stack engineer with 5+ years building production React &amp; Node.js
-          applications from enterprise legal tech platforms to commercial products
-          with thousands of users.
+        A Software Engineer with a demonstrated track record building scalable & user-friendly web applications across industries such as legal tech, and design services. Skilled in React, JavaScript, Typescript, HTML5, CSS3, & RESTful APIs, with extensive back-end experience in Node.js & Express.js.
         </p>
       </div>
 
