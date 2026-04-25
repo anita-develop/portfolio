@@ -7,7 +7,7 @@ const columns = [
   },
   {
     label: 'Backend & Data',
-    skills: ['Node.js & Express.js', 'REST API Design', 'Java & Spring Boot', 'PostgreSQL & MySQL', 'Redis & Couchbase', 'Elastic Stack (ELK)', 'Jest & Unit Testing'],
+    skills: ['Node.js & Express.js', 'REST API Design', 'Java & Spring Boot', 'MySQL', 'Redis & Couchbase', 'Elastic Stack (ELK)', 'Jest & Unit Testing'],
   },
   {
     label: 'DevOps & Tools',
