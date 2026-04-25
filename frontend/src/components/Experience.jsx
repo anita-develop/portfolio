@@ -19,7 +19,7 @@ const jobs = [
   },
   {
     date: 'Feb 2020 — Aug 2022',
-    role: 'Senior Web Developer',
+    role: 'Web Developer',
     company: 'Coderthemes',
     desc: 'Part of Hyper, a commercial React/TypeScript/Next.js admin dashboard that reached 5,000+ sales on ThemeForest. Optimised SPA performance with memoization, lazy loading, and Lighthouse profiling, cutting load times by 15%.',
     pill: '5K+ sales',
