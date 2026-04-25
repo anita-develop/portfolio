@@ -72,11 +72,11 @@ export default function Contact() {
         </div>
 
         <div className={`${styles.links} reveal`} style={{ transitionDelay: '.2s' }}>
-          <a href="https://linkedin.com/in/anita-mavani" className={styles.clink} target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/in/anita-r" className={styles.clink} target="_blank" rel="noopener noreferrer">
             <span className={styles.clinkLabel}>LinkedIn</span>
             linkedin.com/in/anita-mavani
           </a>
-          <a href="https://github.com/AnitaMavani" className={styles.clink} target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/anita-develop" className={styles.clink} target="_blank" rel="noopener noreferrer">
             <span className={styles.clinkLabel}>GitHub</span>
             github.com/AnitaMavani
           </a>
