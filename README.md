@@ -1,4 +1,4 @@
-# Anita Mavani — Portfolio
+# Anita — Portfolio
 
 Personal portfolio website built with **React + Vite** (frontend) and **Node.js + Express** (backend), deployed on **Netlify** (frontend) and **Render** (backend).
 
