@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section id="hero" className={styles.hero}>
       <div className={`${styles.left} reveal`}>
-        <div className={styles.tag}>Software Engineer · Vancouver, BC · Open to Work</div>
+        <div className={styles.tag}>Software Engineer · Canada · Open to Work</div>
         <h1 className={styles.name}>
           <span>Anita</span>
         </h1>
